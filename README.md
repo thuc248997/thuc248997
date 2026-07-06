@@ -17,5 +17,3 @@
 
 - [Daisykit](https://daisykit.nrl.ai) 🍰 - Easy AI for everyone with NCNN - **[152k downloads on PyPi](https://www.pepy.tech/projects/daisykit)** - ⭐ by NCNN's author.
 - And [others ...](https://github.com/thuc248997?tab=repositories).
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thuc248997)](https://git.io/streak-stats)
