@@ -11,6 +11,7 @@
 - **Blogger at** [around-ai.com](https://www.around-ai.com/) ✍.
 - **LinkedIn:** [thuc-pham](https://www.linkedin.com/in/thuc-pham-807241132/).
 - **Twitter (X):** [thuc248997](https://twitter.com/thuc248997).
+- **Google Scholar:** [Thuc Pham Duc](https://scholar.google.com/citations?user=wIca9RgAAAAJ&hl=en).
 
 **Open Source Projects:**
 
