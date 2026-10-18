@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=thuc248997"> 
 
 - **Skills:** AI (PyTorch, Tensorflow, DNN), Computer Vision, Web. **Mostly use:** Python, Javascript.
-- **DayTime Job:** AI Engineer at **Creative Force**.
+- **DayTime Job:** Founder of the company **MicroSpace**.
 - **Blogger at** [around-ai.com](https://www.around-ai.com/) ✍.
 - **LinkedIn:** [thuc-pham](https://www.linkedin.com/in/thuc-pham-807241132/).
 - **Twitter (X):** [thuc248997](https://twitter.com/thuc248997).
